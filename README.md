@@ -8,6 +8,8 @@ A ideia é mostrar como uma aplicação RAG funciona **de ponta a ponta**:
 - Uso de contexto
 - Geração de respostas com LLM local
 
+A documentação de referência pode ser encontrada [aqui](https://giulianabezerra.notion.site/RAG-Local-Demo-2cf49c5a6df18010bbf3e32b1505fc10).
+
 ## 🎥 Sobre o vídeo
 
 No vídeo, a construção da aplicação segue esta ordem:
