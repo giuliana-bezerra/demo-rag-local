@@ -1,0 +1,21 @@
+Perguntas Frequentes sobre IA Generativa
+
+O que é um LLM?
+Um LLM (Large Language Model) é um modelo de linguagem treinado com grandes
+volumes de texto para gerar respostas em linguagem natural.
+
+O LLM entende meus dados?
+Não. O modelo não "aprende" automaticamente com seus dados. Ele apenas utiliza
+o contexto que você fornece no momento da pergunta.
+
+O que é RAG?
+RAG é uma abordagem que permite que o modelo utilize informações externas,
+recuperadas dinamicamente, para responder perguntas com mais precisão.
+
+RAG substitui um banco de dados?
+Não. RAG não substitui bancos de dados transacionais nem analíticos. Ele atua
+como uma camada de recuperação e geração de texto.
+
+IA generativa é confiável?
+A confiabilidade depende diretamente da qualidade dos dados, do design da
+arquitetura e das regras aplicadas ao uso do modelo.

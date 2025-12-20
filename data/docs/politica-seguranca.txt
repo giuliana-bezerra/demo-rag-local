@@ -1,0 +1,30 @@
+Política de Segurança da Informação
+
+A segurança da informação tem como objetivo proteger os dados contra acessos
+não autorizados, vazamentos, alterações indevidas e indisponibilidade.
+
+Esta política se aplica a todos os sistemas, aplicações e dados mantidos pela
+organização, independentemente do ambiente tecnológico.
+
+Princípios Fundamentais
+
+1. Confidencialidade
+As informações devem ser acessadas apenas por usuários, sistemas ou processos
+autorizados.
+
+2. Integridade
+Os dados devem ser protegidos contra alterações não autorizadas, garantindo sua
+correção e confiabilidade ao longo do tempo.
+
+3. Disponibilidade
+Os dados e sistemas devem estar disponíveis sempre que necessários, de acordo
+com os níveis de serviço definidos.
+
+Uso de Inteligência Artificial
+
+Soluções de inteligência artificial devem respeitar os princípios de segurança
+da informação, especialmente no que se refere ao uso de dados sensíveis,
+dados pessoais e informações confidenciais.
+
+Sempre que possível, deve-se priorizar o uso de modelos locais ou ambientes
+controlados para evitar exposição indevida de dados.
